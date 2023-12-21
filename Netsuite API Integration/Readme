@@ -1,4 +1,4 @@
-Integration of Netsuite APIs along with full C# codeUse the integration keys mentioned below in place of xxxx.
-https://xxxxxxxx.restlets.api.netsuite.com/app/site/hosting/restlet.nl?script=1290&deploy=1&searchid=customsearchxxxx.
+Integration of Netsuite APIs Incremental Load along with full C# codeUse the integration keys mentioned below in place of xxxx.
+https://xxxxxxxx.restlets.api.netsuite.com/app/site/hosting/restlet.nl?script=1290&deploy=1&searchid=customsearchxxxxstartRange=0&endRange=1000" .
 Authorization Type: "Outh 1.0",Content-Type: application/json,oauth_signature_method="HMAC-SHA256",oauth_version="1.0",
 OAuth realm=xxxxxxxxx,oauth_consumer_key=xxxxxxxxxxxxxx,oauth_token=xxxxxxxxxxxxxxx
