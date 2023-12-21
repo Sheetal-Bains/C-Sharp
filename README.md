@@ -1,2 +1,1 @@
-# C-Sharp
-C# Code 
+Full Stack .NET Developer with 8+ years of experience in designing and development of large-scale Healthcare, Banking, Retail, Baking, Educational and Financial domains. Experience in requirement gathering and analysis, design, development, application architecture, and maintenance of web-based technologies using Microsoft .NET technologies. WORKED WITH TEAM TO DEFINE REQUIREMENTS AND PROVIDE TECHNICAL ADVICE AND TROUBLESHOOTING, UPDATE TECHNICAL DOCUMENTATION. Quick Learner, good communication, committed to deliver timely, good logical and analytical approach, coupled with very positive attitude and team spirit.
