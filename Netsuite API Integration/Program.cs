@@ -11,16 +11,16 @@ namespace Netsuite_API_Integration
 {
     internal class Program
     {
-        static string URL = "https://5233349-sb2.restlets.api.netsuite.com/app/site/hosting/restlet.nl?script=1290&deploy=1&searchid=";
-        private const string oAuthConsumerKey = "b4f18bf098a5f18d74a1840dfa0bcf0cbaa78d0e3f4eb07c174eb147864c5cb2";
-        private const string oAuthConsumerSecret = "ba46bddd14f12ce6dc985041309f1ad23af8517767aef3cc0d52bac640ea4dda";
-        private const string oAuthToken = "4b9948049dc11442fd4b0fe0e40afe3076a594f6a982c737350f426b8d6f3530";
-        private const string oAuthTokenSecret = "151b9abadb289b0d6f4feee1dd9b8f096a0a20c0743eb8c4ec49afe6051d7168";
-        private const string oAuthRealm = "5233349_SB2";
+        static string URL = "https://xxxxxxx.restlets.api.netsuite.com/app/site/hosting/restlet.nl?script=1290&deploy=1&searchid=";
+        private const string oAuthConsumerKey = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
+        private const string oAuthConsumerSecret = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
+        private const string oAuthToken = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
+        private const string oAuthTokenSecret = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
+        private const string oAuthRealm = "xxxxxx";
         private const string oAuthVersion = "1.0";
         private const string oAuthSigMethod = "HMAC-SHA256";
-        private const string netsuiteReportIds = "2435";
-        private const string destinationFolder = "C:/Users/40000450/OneDrive - Buck Global LLC/Desktop/Sheetal/Development/Netsuite/Downloads/";
+        private const string netsuiteReportIds = "xxxx";
+        private const string destinationFolder = "C:/Users/Development/Netsuite/Downloads/";
 
         static void Main(string[] args)
         {
