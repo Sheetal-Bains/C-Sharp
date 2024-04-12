@@ -11,7 +11,7 @@ namespace Netsuite_API_Integration
 {
     internal class Program
     {
-        static string URL = "https://xxxxxxx.restlets.api.netsuite.com/app/site/hosting/restlet.nl?script=1290&deploy=1&searchid=";
+        static string URL = "https://xxxxxxx.restlets.api.netsuite.com/app/site/hosting/restlet.nl?script=xxxx&deploy=x&searchid=";
         private const string oAuthConsumerKey = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
         private const string oAuthConsumerSecret = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
         private const string oAuthToken = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
@@ -20,7 +20,7 @@ namespace Netsuite_API_Integration
         private const string oAuthVersion = "1.0";
         private const string oAuthSigMethod = "HMAC-SHA256";
         private const string netsuiteReportIds = "xxxx";
-        private const string destinationFolder = "C:/Users/Development/Netsuite/Downloads/";
+        private const string destinationFolder = "C:/Users/xx/xx/xxxxx/";
 
         static void Main(string[] args)
         {
@@ -40,8 +40,8 @@ namespace Netsuite_API_Integration
                 {
                     var data = new Dictionary<string, string>()
                     {
-                        {"script", "1290" },
-                        {"deploy", "1" },
+                        {"script", "xxxx" },
+                        {"deploy", "x" },
                         {"searchid", customReportId },
                         {"startRange",startRange },
                         {"endRange",endRange }
